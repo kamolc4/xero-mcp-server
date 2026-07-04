@@ -1,7 +1,7 @@
 # Xero MCP Server
 
-[![CI](https://github.com/your-org/xero-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/your-org/xero-mcp-server/actions/workflows/ci.yml)
-[![Verified by MCPForge](https://www.mcpforge.tech/api/servers/xero-mcp/badge)](https://www.mcpforge.tech/verified/xero-mcp)
+[![CI](https://github.com/kamolc4/xero-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/kamolc4/xero-mcp-server/actions/workflows/ci.yml)
+[![Verified by MCPForge](https://www.mcpforge.tech/api/servers/xero-mcp-server/badge)](https://www.mcpforge.tech/verified/xero-mcp)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A production-ready Model Context Protocol server for the Xero Accounting API.
