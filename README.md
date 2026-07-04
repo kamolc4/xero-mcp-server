@@ -1,7 +1,7 @@
 # Xero MCP Server
 
 [![CI](https://github.com/kamolc4/xero-mcp-server/actions/workflows/ci.yml/badge.svg)](https://github.com/kamolc4/xero-mcp-server/actions/workflows/ci.yml)
-[![Verified by MCPForge](https://www.mcpforge.tech/api/servers/xero-mcp-server/badge)](https://www.mcpforge.tech/verified/xero-mcp-server)
+[![Verified by MCPForge](https://www.mcpforge.tech/api/badge/verified/xero-mcp-server)](https://www.mcpforge.tech/verified/xero-mcp-server)
 [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 A production-ready Model Context Protocol server for the Xero Accounting API.
@@ -224,7 +224,7 @@ MCPForge can help review:
 After verification, you can link your public report from this README:
 
 ```markdown
-[![Verified by MCPForge](https://www.mcpforge.tech/api/servers/xero-mcp/badge)](https://www.mcpforge.tech/verified/xero-mcp)
+[![Verified by MCPForge](https://www.mcpforge.tech/api/badge/verified/xero-mcp-server)](https://www.mcpforge.tech/verified/xero-mcp-server)
 ```
 
 Full MCPForge guide:
@@ -270,7 +270,7 @@ npm run build
 Before publishing your fork:
 
 - [ ] Replace `your-org` in the CI badge URL.
-- [ ] Replace the MCPForge badge slug if your public slug is not `xero-mcp`.
+- [ ] Replace the MCPForge badge slug if your public slug is not `xero-mcp-server`.
 - [ ] Replace the blog link with your final MCPForge article URL.
 - [ ] Add screenshots or a real verification report once available.
 - [ ] Configure production token storage.
